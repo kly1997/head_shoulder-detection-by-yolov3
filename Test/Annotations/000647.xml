@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Annotations</folder>
+	<filename>000647.jpg</filename>
+	<path>F:\DEEPL\yolo\VOCdevkit\VOC2007\JPEGImages\000647.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1187</width>
+		<height>937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head_shoulder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>312</ymin>
+			<xmax>420</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
