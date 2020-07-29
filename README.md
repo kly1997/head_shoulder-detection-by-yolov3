@@ -35,5 +35,19 @@
  9  | 0.046s | 0.0031s
  
  结论：目标数较多时，使用CV2画框有较大提升。（后面用1080Ti也测过，但没记录数据，视频中人数较多时，平均有好几FPS的提升）
+ #### 五、预训练模型与测试集
+ 测试集图片来自INRIA Person Dataset的测试集，手动标注头肩特征。  
+ 链接：https://pan.baidu.com/s/1cA0RRBRS-jtSBUGbp4NzgQ  
+ 提取码：fhcs  
+ 预训练模型记得换anchor(也在网盘中)  
+ 链接：https://pan.baidu.com/s/1guHLeGDUKlRF3EwWgMzVLQ  
+ 提取码：fmsy  
+  #### 六、测试集上表现
+  INRIA Testing Set   |  ----- 
+ ---- | ----- 
+ precision  | 98.36%  
+ recall  | 96.22%  
+
+ 
 
  
